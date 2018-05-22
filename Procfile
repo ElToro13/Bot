@@ -1,1 +1,1 @@
-worker: python FalcFuryBot.py --log-file -
+web: python FalcFuryBot.py 
